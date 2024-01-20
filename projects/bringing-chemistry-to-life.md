@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/chem-logo.png
 title: "Bringing Chemistry to Life"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A comic strip demonstrating our understanding of chemistry concepts that I developed with Samantha Limon in CHEM 162."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../chem-logo.png">
 
 "Mr. Clean to the Rescue: Soapy Shenanigans and the Great Goo Giggler" is a comic strip that I created with my partner, Samantha Limon, in CHEM 162. This project help me learn how to turn borderline mundane text from a textbook into a format that more visually appealing and interesting to learn from.
 
