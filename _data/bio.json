@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://lilyenan.github.io",
     "summary": "I am studying for a B.S. in Computer Science on the Security Science track in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
       { "network": "github", "username": "lilyenan", "url": "http://github.com/lilyenan" },
       { "network": "linkedin", "username": "lilyenanoria", "url": "http://www.linkedin.com/in/lily-enanoria-0944aa2aa" }
@@ -35,7 +35,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawai'i, Honolulu, HI",
       "area": "Computer Science, Security Science track (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2022-08-21",
@@ -60,9 +60,9 @@
     {
       "company": "Chyler's Hawaiian Beef Chips",
       "position": "Staff",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "website": "",
+      "startDate": "2023-03",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Sole member who can translate and communicate with Japanese customers",
@@ -74,7 +74,7 @@
     {
       "title": "Hawai'i Seal of Biliteracy, Japanese and English",
       "date": "2022-05",
-      "awarder": "Hawaii Department of Education",
+      "awarder": "Hawai'i Department of Education",
       "summary": "Awarded upon graduation to students who demonstrate a high proficiency in English and at least one additional language."
     }
   ],
