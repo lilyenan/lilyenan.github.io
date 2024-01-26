@@ -23,7 +23,7 @@ Asking smart questions is one of the most critical skills for a software enginee
 
 Here is one such example of a smart question: (I’ll begin referring to the question asker as “Q” from here.) 
 
-<img width="600px" 
+<img width="300px" 
      class="rounded float-start pe-4" 
      src="../img/smart.png" >
      
