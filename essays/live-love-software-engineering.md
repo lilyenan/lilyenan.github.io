@@ -10,7 +10,7 @@ labels:
   - Future Growth
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/essaySE.png">
 
 Honestly, I never really looked at what being a software engineer encompassed before this class. Through some digging and talking with peers, I got the impression that it was a whole bunch of coding (which it is) and, therefore, something that I wasn't interested in (because of how much I suck at it). After doing some research, I concluded that while creating software solutions is a large part of what software engineers do, they are also responsible for the entire design, development, testing, and maintenance of the entire software system. 
 
