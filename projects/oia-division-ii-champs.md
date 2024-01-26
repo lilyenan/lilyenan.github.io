@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/vbPROJ.png
 title: "OIA Division II Championships"
 date: 2021
 published: true
