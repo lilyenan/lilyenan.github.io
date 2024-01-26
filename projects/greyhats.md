@@ -12,10 +12,10 @@ summary: "How I contribute as board member to GreyHats, a cybersecurity focused 
 ---
      
 ## What is GreyHats?
-<img width="200px" 
+
+The GreyHats at the University of Hawai'i - Manoa is a registered independent organization that helps foster students' interest in cybersecurity and provides opportunities for them to develop these skills for use in practical settings. In one semester, I went from being a first-time member to becoming part of the board that regulated the club. <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/gh.png" >
-The GreyHats at the University of Hawai'i - Manoa is a registered independent organization that helps foster students' interest in cybersecurity and provides opportunities for them to develop these skills for use in practical settings. In one semester, I went from being a first-time member to becoming part of the board that regulated the club. Part of being on the board entails monitoring the GrayHats servers, researching topics to present at weekly seminars, creating practice exercises for members to demonstrate knowledge gained at weekly meetings, and organizing and promoting nationwide competitions such as the National Collegiate Cyber Defense Competition (CCDC), National Cyber League (NCL), and Hivestorm.
+     src="../img/gh.png" >Part of being on the board entails monitoring the GrayHats servers, researching topics to present at weekly seminars, creating practice exercises for members to demonstrate knowledge gained at weekly meetings, and organizing and promoting nationwide competitions such as the National Collegiate Cyber Defense Competition (CCDC), National Cyber League (NCL), and Hivestorm.
 
 ## My Responsibilities
 
