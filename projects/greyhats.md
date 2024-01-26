@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ghPROJ.jpg
+image: img/greyhatPROJ.jpg
 title: "GreyHats"
 date: 2023 - Present
 published: true
