@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/wedding-goals-hawaii.png
+image: img/ghPROJ.jpg
 title: "GreyHats"
 date: 2023 - Present
 published: true
@@ -10,8 +10,6 @@ labels:
   - Club Activities
 summary: "How I contribute as board member to GreyHats, a cybersecurity focused interest club, at the University of Hawaii - Manoa."
 ---
-
-<img class="img-fluid" src="..img/wedding-goals-hawaii.png">
 
 ## What is GreyHats?
 
