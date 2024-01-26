@@ -23,12 +23,13 @@ Asking smart questions is one of the most critical skills for a software enginee
 
 Here is one such example of a smart question: (I’ll begin referring to the question asker as “Q” from here.) 
 
-<img width="700px" 
+<img width="600px" 
      class="rounded float-start pe-4" 
      src="../img/smart.png" >
      
 Q begins by providing us with background information about the specific goal they are attempting to accomplish. Q then informs the audience how they successfully obtained a response, but the problem is that the data is not received in the structure they expected. Q even provides a screenshot of how the output is displayed on their tool and an excerpt of their code, giving the audience more perspective. 
 
+<hr>
 ## A Not-So-Smart-Minimal-Effort Question
 
 Now that we’ve seen an example of a smart question, let’s look at an example of a not-so-smart question:
