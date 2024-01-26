@@ -12,7 +12,7 @@ summary: "How I contribute as board member to GreyHats, a cybersecurity focused 
 ---
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="..img/gh.png" >
+     src="../img/gh.png" >
      
 ## What is GreyHats?
 
