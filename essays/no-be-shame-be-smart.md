@@ -23,15 +23,19 @@ Asking smart questions is one of the most critical skills for a software enginee
 
 Here is one such example of a smart question: (I’ll begin referring to the question asker as “Q” from here.) 
 
-<img class="img-fluid" src="../img/smart.jpg">
-
+<img width="700px" 
+     class="rounded float-start pe-4" 
+     src="../img/smart.png" >
+     
 Q begins by providing us with background information about the specific goal they are attempting to accomplish. Q then informs the audience how they successfully obtained a response, but the problem is that the data is not received in the structure they expected. Q even provides a screenshot of how the output is displayed on their tool and an excerpt of their code, giving the audience more perspective. 
 
 ## A Not-So-Smart-Minimal-Effort Question
 
 Now that we’ve seen an example of a smart question, let’s look at an example of a not-so-smart question:
 
-<img class="img-fluid" src="../img/notsmart.jpg">
+<img width="600px" 
+     class="rounded float-start pe-4" 
+     src="../img/notsmart.png" >
 
 Right off the bat, you can see little to no content in this question. The only thing Q does is list six questions regarding stacks and heaps. While this is an important question to know the general answer to, how this question was asked, in some regards, kind of looks like the post of someone making a last-ditch attempt to finish their homework questions without having to open a book and learn something. Since the question could’ve been answered with minimal research on Q’s part, it’s a not-so-smart question. Another thing that makes it a not-so-smart question is that due to the open-ended nature of this question, the answers Q will receive may not be the specific answers he wants.
 
