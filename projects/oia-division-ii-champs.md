@@ -10,7 +10,7 @@ labels:
 summary: "How I contributed to my high school volleyball team's accomplishments as a senior."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="..img/vb.jpg">
 
 ## Serving Up Life Lessons
 
