@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartq.jpg">
 
 “A prudent question is one half of wisdom.” - Francis Bacon. Understandably, it’s naturally difficult to admit when lost and needing guidance. However, there are just some questions that can be too difficult to try and answer by oneself. Although there’s no need to feel ashamed in asking for help, asking a “smart” question can help lessen the embarrassment. 
 
