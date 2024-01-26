@@ -10,11 +10,8 @@ labels:
   - Environmental Awareness
 summary: "A comic strip demonstrating my understanding of chemistry concepts that I developed in CHEM 162 as a partner project."
 ---
-<div class="text-center p-4">
-  <img width="800px" 
-       src="..img/chem.png" 
-       class="img-thumbnail" >
-</div>
+
+<img class="img-fluid" src="../img/chem.png">
 
 "Mr. Clean to the Rescue: Soapy Shenanigans and the Great Goo Giggler" is a comic strip that I created with my partner in CHEM 162. For this project we were tasked with converting plain text material from the course textbook and lectures, into a more visually appealing and interesting format. We decided on creating a comic about cleaning up oil spills since we could speak on the properties of liquids and how the strength of intermolecular forces allow for soap to contribute to the separation of oil from water. 
 
