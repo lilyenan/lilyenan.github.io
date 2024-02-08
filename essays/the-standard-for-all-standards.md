@@ -8,7 +8,7 @@ published: true
 labels:
   - Coding Standards
 ---
-<img class="img-fluid" src="../img/suits.jpg" width="50%">
+<img class="img-fluid" src="../img/suits.jpg" width="50%" style="margin-left:25%">
 
 If you’ve ever seen the show “Suits” (with pre-Duchess of Sussex Meghan Markle), you’ll know that lawyers keep extensive records of all cases they’ve ever dealt with. Sometimes, cases from decades in the past get reopened, and so they have to refer to old records to build their new case. Now, imagine if all these old records were scattered over their library, and they had to waste time searching for them. Or imagine if all documents were in a folder whose thickness rivals the combination of all seven Harry Potter books, but only half of the content needed to be in there. As you can imagine, it would be an extreme pain for present lawyers to retrace and understand this case from what they have in the old case file. Implementing a standard for formatting and eliminating unnecessary content would make the transfer of this case between current and future lawyers easier. 
 
