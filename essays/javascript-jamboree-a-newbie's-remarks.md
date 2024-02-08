@@ -8,7 +8,7 @@ published: true
 labels:
   - JavaScript
 ---
-<img class="img-fluid" src="../img/js.jpg">
+<img class="img-fluid" src="../img/js.jpg" width="50%" style="margin-left:25%">
 
 ## Starting Out
 As someone who encountered some discouraging experiences while first learning to code, I always feel some slight nervousness whenever I code. That’s why the idea of learning another language, along with its syntax, tricks, and things of that nature, in such a short time was pretty daunting to contemplate. However, I’m glad to say that it wasn’t as bad of a learning curve as my anxieties made it to be. Because the logical thinking behind solving problems is still the same regardless of what language you code in, the main thing that I had to do was get used to syntax for JavaScript. One thing that I still haven’t gotten used to is the fact that in JavaScript, I don’t have to initialize any specific data types for the values or variables I implement. Specifying the data type has become ingrained to the point that it feels a little ‘illegal’ not to do so.
