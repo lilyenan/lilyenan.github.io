@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: "Live, Love, Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-26
+date: 2024-01-26
 published: true
 labels:
   - Software Engineering
   - Future Growth
 ---
-<img class="img-fluid" src="../img/essaySE.png">
+<img class="img-fluid" src="../img/essaySE.png" width="50%" style="margin-left:25%">
 
 Honestly, I never really looked at what being a software engineer encompassed before this class. Through some digging and talking with peers, I got the impression that it was a whole bunch of coding (which it is) and, therefore, something that I wasn't interested in (because of how much I suck at it). After doing some research, I concluded that while creating software solutions is a large part of what software engineers do, they are also responsible for the entire design, development, testing, and maintenance of the entire software system. 
 
