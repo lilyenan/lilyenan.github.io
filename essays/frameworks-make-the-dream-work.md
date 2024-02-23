@@ -22,5 +22,5 @@ While UI frameworks help standardize the process of creating user interfaces, th
 ## #stayBOOTstrapped
 As you can see in the comparison pictures below, the difference between using a framework and not is obvious. Frameworks, like how I used Bootstrap 5 in this example, are invaluable in the way that they accelerate the efficiency of creating a website, along with making aesthetic decisions simpler.
 
-<img src="./img/historyofsurfing.png" width="50%" style="margin-left:25%">
-<img src="./img/bootstrap.png" width="50%" style="margin-left:25%">
+<img src="../img/historyofsurfing.png" width="50%" style="margin-left:25%">
+<img src="../img/bootstrap.png" width="50%" style="margin-left:25%">
